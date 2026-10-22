@@ -6,6 +6,7 @@
     button{
         color: blue;
         font-family: times;
+        border-radius: 20px;
     }
 
     #minuteStr {
