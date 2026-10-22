@@ -46,7 +46,8 @@
         left:10px; right:10px;
     }
 
-    #timer::after{
+    #time::after {
+        content: "秒";
     }
     
     #mycanvas {
